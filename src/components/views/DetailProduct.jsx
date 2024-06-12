@@ -199,7 +199,7 @@ export default function DetailProduct() {
 
                   <Typography
                     component="p"
-                    sx={{ width:{ xs: "20rem", sm:"28rem"}, marginTop: 3, fontSize: 14, fontWeight: 300 }}
+                    sx={{ width:{ xs: "18rem", sm:"28rem"}, marginTop: 3, fontSize: 14, fontWeight: 300 }}
                   >
                     {itemprducts.description}
                   </Typography>
