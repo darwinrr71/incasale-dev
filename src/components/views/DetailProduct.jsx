@@ -112,7 +112,7 @@ export default function DetailProduct() {
       </ListItemText>
       {/** Grid que encierra todo el componente */}
       <Paper
-        sx={{ paddin: "32px", background: "white", height:{ xs:"36rem", sm:"21rem"}, with: "800px" }}
+        sx={{ paddin: "32px", background: "white", height:{ xs:"38rem", sm:"21rem"}, with: "800px" }}
         //sx={{ paddin: "32px", background: "white", with: "800px" }}
         elevation={4}
       >
