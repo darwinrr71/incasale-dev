@@ -134,12 +134,12 @@ export default function DetailProduct() {
             <Card
               key={itemprducts.id}
               sx={{
-                marginLeft: { xs: 5, sm: 12},
+                marginLeft: { xs: 2, sm: 12},
                 marginTop: 2,
                 boxShadow: "none",
                 textDecoration: "none",
                 display: { xs: "block", sm: "flex" },
-                height:{ xs: "34rem", sm:"20rem"}
+                height:{ xs: "36rem", sm:"20rem"}
               }}
             >
               {/** Encierra la imagen */}
