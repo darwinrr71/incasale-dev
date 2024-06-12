@@ -227,7 +227,8 @@ import {
                             marginTop: 1,
                             fontSize: 12,
                             fontWeight: 300,
-                            width: 300,
+                            width:{ xs: "19rem", sm:"18rem"},
+                            //width: 300,
                           }}
                         >
                           {itemprducts.description}
